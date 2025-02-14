@@ -1,0 +1,5 @@
+Type following to enter GUI mode:
+kex
+
+Press following on keyboard to exit full screen:
+F8

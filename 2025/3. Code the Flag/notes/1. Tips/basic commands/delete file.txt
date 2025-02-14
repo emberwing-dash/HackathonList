@@ -1,0 +1,2 @@
+use the rm command:
+rm fileName.txt
